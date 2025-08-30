@@ -1,2 +1,2 @@
 # Primeira-Aula
-Primeira aula de GIT
+Primeira aula de HTML
